@@ -1,4 +1,4 @@
-//![logo](https://github.com/habibullah46/habibullah46/blob/main/20220817_124340.jpg)
+![logo](https://github.com/habibullah46/habibullah46/blob/main/20220817_124340.jpg)
 <h1 align="center">Hi 👋, I'm Habibullah</h1>
 <h3 align="center">A passionate Programmer From Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dakyo327cb7k0lybcah797gs0kiwjkhk6s55fjv5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
