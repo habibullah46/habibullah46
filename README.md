@@ -4,7 +4,7 @@
 
 <p align="center">
  <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+Profile.+.+.;I+am+a+Software+Engineer;Programmer+%2F+Programming+Instructor;Active+Learner.+.+.+;Welcome+to+my+Profile.+.+." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+Profile.+.+.;I+am+a+habib+ullah;Programmer+%2F+Programming+Instructor;Active+Learner.+.+.+;Welcome+to+my+Profile.+.+." alt="Typing SVG" /></a>
 </p>
 <h3 align="center">A passionate Programmer From Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dakyo327cb7k0lybcah797gs0kiwjkhk6s55fjv5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
