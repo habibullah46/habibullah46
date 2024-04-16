@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/habib_khalqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="habib_khalqi" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/habib_khalqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/habib_khalqi" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/habib-khalqi-7b88982a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/LinkedIn.svg" alt="https://www.linkedin.com/habib_khalqi" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/habib-khalqi-7b88982a4/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/LinkedIn.svg](https://w7.pngwing.com/pngs/642/372/png-transparent-link-in-logo-linkedin-logo-linkedin-icons-no-attribution-miscellaneous-blue-angle.png)" alt="Link In logo, LinkedIn Logo, Linkedin Icons No Attribution, blue, angle, text png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
