@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Analyst**
 
-- 📫 How to reach me **habibullahbalti444@gmail.com**
+- 📫 How to reach me **hkbalti44@gmail.com**
 
 - ⚡ Fun fact **I think I am Good Programmer🤷‍♀️😃**
 
